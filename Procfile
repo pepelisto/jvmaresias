@@ -1,1 +1,1 @@
-web: gunicorn uanama.wsgi --log-file -
+web: gunicorn uanama.wsgi
